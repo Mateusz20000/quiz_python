@@ -1,0 +1,44 @@
+{
+  "quiz": [
+    {
+      "question": "Który pierwiastek chemiczny ma symbol O?\nA: Wodór\nB: Tlen\nC: Hel\nD: Wapń",
+      "correct_answer": "B"
+    },
+    {
+      "question": "Ile kontynentów wyróżnia się na świecie?\nA: 5\nB: 6\nC: 7\nD: 8",
+      "correct_answer": "C"
+    },
+    {
+      "question": "Kto napisał „Pana Tadeusza”?\nA: Henryk Sienkiewicz\nB: Adam Mickiewicz\nC: Juliusz Słowacki\nD: Bolesław Prus",
+      "correct_answer": "B"
+    },
+    {
+      "question": "Największą planetą Układu Słonecznego jest:\nA: Mars\nB: Ziemia\nC: Saturn\nD: Jowisz",
+      "correct_answer": "D"
+    },
+    {
+      "question": "Ile stopni ma kąt prosty?\nA: 45\nB: 90\nC: 180\nD: 270",
+      "correct_answer": "B"
+    },
+    {
+      "question": "Stolica Hiszpanii to:\nA: Barcelona\nB: Madryt\nC: Sewilla\nD: Lizbona",
+      "correct_answer": "B"
+    },
+    {
+      "question": "Które zwierzę jest ssakiem?\nA: Żaba\nB: Rekin\nC: Delfin\nD: Kura",
+      "correct_answer": "C"
+    },
+    {
+      "question": "W którym roku wybuchła II wojna światowa?\nA: 1914\nB: 1939\nC: 1945\nD: 1956",
+      "correct_answer": "B"
+    },
+    {
+      "question": "Jak nazywa się proces, w którym rośliny produkują tlen?\nA: Fermentacja\nB: Fotosynteza\nC: Transpiracja\nD: Oddychanie",
+      "correct_answer": "B"
+    },
+    {
+      "question": "Jaki jest wynik działania: 12 × 6?\nA: 48\nB: 60\nC: 72\nD: 96",
+      "correct_answer": "C"
+    }
+  ]
+}
