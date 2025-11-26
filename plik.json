@@ -1,0 +1,104 @@
+{
+  "quiz": [
+    {
+      "question": "Który pierwiastek chemiczny ma symbol O?",
+      "options": {
+        "A": "Wodór",
+        "B": "Tlen",
+        "C": "Hel",
+        "D": "Wapń"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Ile kontynentów wyróżnia się na świecie?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "Kto napisał „Pana Tadeusza”?",
+      "options": {
+        "A": "Henryk Sienkiewicz",
+        "B": "Adam Mickiewicz",
+        "C": "Juliusz Słowacki",
+        "D": "Bolesław Prus"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Największą planetą Układu Słonecznego jest:",
+      "options": {
+        "A": "Mars",
+        "B": "Ziemia",
+        "C": "Saturn",
+        "D": "Jowisz"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "question": "Ile stopni ma kąt prosty?",
+      "options": {
+        "A": "45",
+        "B": "90",
+        "C": "180",
+        "D": "270"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Stolica Hiszpanii to:",
+      "options": {
+        "A": "Barcelona",
+        "B": "Madryt",
+        "C": "Sewilla",
+        "D": "Lizbona"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Które zwierzę jest ssakiem?",
+      "options": {
+        "A": "Żaba",
+        "B": "Rekin",
+        "C": "Delfin",
+        "D": "Kura"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question": "W którym roku wybuchła II wojna światowa?",
+      "options": {
+        "A": "1914",
+        "B": "1939",
+        "C": "1945",
+        "D": "1956"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Jak nazywa się proces, w którym rośliny produkują tlen?",
+      "options": {
+        "A": "Fermentacja",
+        "B": "Fotosynteza",
+        "C": "Transpiracja",
+        "D": "Oddychanie"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question": "Jaki jest wynik działania: 12 × 6?",
+      "options": {
+        "A": "48",
+        "B": "60",
+        "C": "72",
+        "D": "96"
+      },
+      "correct_answer": "C"
+    }
+  ]
+}
